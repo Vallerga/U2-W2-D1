@@ -1,2 +1,35 @@
 BOOTSTRAP
 
+bootstrap è un progetto nato durante lo sviluppo di twitter per dare un ambiente di sviluppo uniforme e delle linee di design condivise. Adesso è un progetto indipendente sostenuto da un enorme supporto open source.
+
+Come le librerie permette di implementare strumenti e di scrivere meno a mano CSS risparmiando tempo e rendendo più leggibile il codice.
+
+contiene plugin jQuery personalizzati che puoi facilmente includerli tuti insieme ad uno ad uno.con bootstrap 4 in poi bisogna implementare anche jQuery.
+
+VANTAGGI
+
+- framework responsive 100%
+- codice LESS e SASS
+- grande supporto sviluppatori
+- Grid System basato su flexbox molto potente (fino a 12 colonne!!)
+- Rari problemi di compatibilità
+
+SVANTAGGI
+
+- è un lunghissimo file CSS e se si vuole sviluppare piccoli progetti appesantirà il progetto renderà più complesso il tutto
+- si deve integrare anche file JS associati
+- rischio di omologazione con altri siti fatti con bootstrap perché si ha un uso ricorrente delle stesse classi con le stesse impostazioni ed gli stessi layaut
+
+ovviamente Bootstrap è solo uno dei layout! ce ne un sacco e nulla ci vieta di usarne altri una volta presa confidenza con questo più didattico.
+
+VERSIONAMENTO SEMANTICO 2.0.0
+
+dato un numero di versionamento MAJOR.MINOR.PATCH, intrementante la:
+1. MAJOR quando mondificate l'API in modo non retrocompatibile
+2. MINOR quando aggiungete funzionalità in modo retrocompatibile
+3. PATCH quando correggiamo bug in modo retrocompatibile
+
+esistono anche etichete aggiuntive per il pre-release e i metadati di build come estensioni al formato major.minor.Patch!
+
+
+25 genn 12:20 al baluardo via montallegro 48 n.40487626  36.15€
